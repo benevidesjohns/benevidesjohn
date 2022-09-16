@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/benevidesjohn">
-  <img width="40%" height="180em" src="https://github-readme-stats.vercel.app/api?username=benevidesjohn&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img width="40%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benevidesjohn&layout=compact&langs_count=4&theme=gotham"/>
+  <img width="45%" height="180em" src="https://github-readme-stats.vercel.app/api?username=benevidesjohn&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img width="45%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=benevidesjohn&layout=compact&langs_count=4&theme=gotham"/>
 </div>
 
 ### `Linguagens e Ferramentas`
